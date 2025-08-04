@@ -4,4 +4,4 @@ this is my first git repository
 author-Nikhil kumar
 
 # student
-dlta student
+delta student
