@@ -1,5 +1,7 @@
 # nikhil-demo-1
-this is my first git repository
+this is my first git repository.
 <br>
 author-Nikhil kumar
 
+# student
+dlta student
